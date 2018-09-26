@@ -1,4 +1,7 @@
 # Service Principles
+This document burrows heavily from
+- https://github.com/Yelp/service-principles
+
 
 - [Service Principles](#service-principles)
   - [Creation](#creation)
